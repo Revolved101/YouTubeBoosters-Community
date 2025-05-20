@@ -4,8 +4,7 @@
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+I Created making a site dedicated in promoting Youtube videos similar to disboard.org where users can promote discord servers. This is my first deployment so if are thinking of using this make sure to add my name in the credits Revolved101
 
 ## Deployment
 
